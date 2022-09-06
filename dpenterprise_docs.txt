@@ -1,0 +1,20 @@
+
+Public IP : 3.6.34.131
+Host Name (for putty) : ubuntu@ec2-3-6-34-131.ap-south-1.compute.amazonaws.com
+Host Name : ec2-3-6-34-131.ap-south-1.compute.amazonaws.com
+
+--------- Vesta control pannel (for linking domain to aws)------------
+ https://3.6.34.131:8083
+    username: admin
+    password: KDdshVGMni
+
+ www.dpenterprises.tk
+ Vesta FTP : admin_harishcpant / Vesta@2021
+------------------------------------------
+
+Freenom.com (For Domain registration)	
+harishcpant@gmail.com	
+Freenom@2021
+
+-----------------------------------
+
